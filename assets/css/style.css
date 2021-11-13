@@ -302,7 +302,9 @@ main {
 .horiseon {
     background-image: url("../images/horiseon.png");
 }
-
+.run-buddy {
+    background-image: url("../images/run-buddy.png");
+}
 
 /* Contact Section */
 .contact address {

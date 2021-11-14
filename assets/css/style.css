@@ -305,7 +305,9 @@ main {
 .run-buddy {
     background-image: url("../images/run-buddy.png");
 }
-
+.password-generator {
+    background-image: url("../images/password-generator.png");
+}
 /* Contact Section */
 .contact address {
     display: flex;

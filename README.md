@@ -1,6 +1,7 @@
              Welcome to My Portfolio!!!
 
 # Updated-Portfolio
+[professional-portfolio](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 
 # UC Berkeley Fullstack Coding Bootcamp
 
@@ -73,12 +74,14 @@ background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 - GitHub
 - and more on the way
 
-## Assignments (works in progress):
+## Assignments (In Progress)
 
-- [Profile](https://github.com/tringuyen1086)
-- [Contact](https://github.com/tringuyen1086/tringuyen1086)
 - [horiseon](https://tringuyen1086.github.io/horiseon)
-
+- [password-generator](https://tringuyen1086.github.io/password-generator-ultimate/)
+- [code-quiz](https://tringuyen1086.github.io/code-quiz-basis/)
+- [work-day-scheduler](https://tringuyen1086.github.io/work-scheduler-ultimate/)
+- [weather-dashboard](https://tringuyen1086.github.io/weather-dashboard-ultimate/)
+- [git-it-done](https://tringuyen1086.github.io/git-it-done-ultimate/)
 
 ## Contributing
 Please find me on [Linkedin](https://www.linkedin.com/in/tri-nguyen-1086).

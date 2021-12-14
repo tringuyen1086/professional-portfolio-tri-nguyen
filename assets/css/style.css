@@ -219,7 +219,7 @@ main {
 /* Main Page Content */
 
 .page-wrapper {
-    max-width: 85%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -265,7 +265,7 @@ main {
 .grid-item {
     border: 5px solid var(--secondary);
     grid-column: span 4;
-    background-color: var(--primary);
+    background-color: transparent;
     color: var(--tertiary);
     min-height: 100px;
     display: flex;
@@ -273,7 +273,7 @@ main {
     padding: 0 0 20px 0;
     text-decoration: none;
     background-blend-mode: soft-light;
-    background-size: 150%;
+    background-size: 100%;
     transition: all 0.5s;
     font-size: 0.8rem;
 }
@@ -307,6 +307,18 @@ main {
 }
 .password-generator {
     background-image: url("../images/password-generator.png");
+}
+.code-quiz {
+    background-image: url("../images/code-quiz.png")
+}
+.work-scheduler {
+    background-image: url("../images/work-scheduler.png")
+}
+.weather-dashboard {
+    background-image: url("../images/weather-dashboard.png")
+}
+.git-it-done {
+    background-image: url("../images/git-it-done.png")
 }
 /* Contact Section */
 .contact address {

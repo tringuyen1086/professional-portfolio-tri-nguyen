@@ -77,6 +77,7 @@ background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 ## Assignments (In Progress)
 
 - [horiseon](https://tringuyen1086.github.io/horiseon)
+- [run-buddy](https://tringuyen1086.github.io/run-buddy/)
 - [password-generator](https://tringuyen1086.github.io/password-generator-ultimate/)
 - [code-quiz](https://tringuyen1086.github.io/code-quiz-basis/)
 - [work-day-scheduler](https://tringuyen1086.github.io/work-scheduler-ultimate/)

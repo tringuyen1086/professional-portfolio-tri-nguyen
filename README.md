@@ -1,17 +1,20 @@
-             Welcome to My Portfolio!!!
+# Welcome to My Portfolio!!!
 
-# Updated-Portfolio
+## Live Application Link
+
 [professional-portfolio](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 
 ## Project Visual
+
 ![launching-page](./assets/images/launch-page.png)
 
-# UC Berkeley Fullstack Coding Bootcamp
+## UC Berkeley Fullstack Coding Bootcamp
 
 This porfolio is a work in progress that shows activities, homework, and projects for UC Berkeley Coding Boot Camp. 
 I will add more links, styles, and codes to improve my portfolio over time.
 
 ## Currently working with:
+
 * [x] API
 * [x] Bootstrap
 * [x] CSS
@@ -41,8 +44,8 @@ I will add more links, styles, and codes to improve my portfolio over time.
 * [x] [meme-stocker](https://tringuyen1086.github.io/meme-stocker/)
 
 ## Code snipit 
-This particular code is how I used ccs with my html to create an animated banner on my portfolio.
 
+This particular code is how I used ccs with my html to create an animated banner on my portfolio.
 
   background-color: rgba(12, 219, 174, 0.4);
   background-image:   
@@ -100,7 +103,7 @@ background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 
 ## Contributing
 
-* [x] Tri Nguyen
+* [x] [Tri Nguyen](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 * [x] Please find me on [Linkedin](https://www.linkedin.com/in/tri-nguyen-1086).
 
 

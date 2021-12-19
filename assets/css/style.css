@@ -320,6 +320,9 @@ main {
 .git-it-done {
     background-image: url("../images/git-it-done.png")
 }
+.meme-stocker {
+    background-image: url("../images/meme-stocker.png")
+}
 /* Contact Section */
 .contact address {
     display: flex;

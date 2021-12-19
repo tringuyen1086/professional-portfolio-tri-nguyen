@@ -3,11 +3,42 @@
 # Updated-Portfolio
 [professional-portfolio](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 
+## Project Visual
+![launching-page](./assets/images/launch-page.png)
+
 # UC Berkeley Fullstack Coding Bootcamp
 
 This porfolio is a work in progress that shows activities, homework, and projects for UC Berkeley Coding Boot Camp. 
 I will add more links, styles, and codes to improve my portfolio over time.
 
+## Currently working with:
+* [x] API
+* [x] Bootstrap
+* [x] CSS
+* [x] DOM
+* [x] GitBash
+* [x] GitLab
+* [x] GitHub
+* [x] Html
+* [x] JavaScript
+* [x] JQuery
+* [x] JSon
+* [x] MVC Pardigm
+* [x] Node JS
+* [x] VS Code
+* [x] ...
+* [x] and more on the way
+
+## Assignments (In Progress)
+
+* [x] [horiseon](https://tringuyen1086.github.io/horiseon)
+* [x] [run-buddy](https://tringuyen1086.github.io/run-buddy/)
+* [x] [password-generator](https://tringuyen1086.github.io/password-generator-ultimate/)
+* [x] [code-quiz](https://tringuyen1086.github.io/code-quiz-basis/)
+* [x] [work-scheduler](https://tringuyen1086.github.io/work-scheduler-ultimate/)
+* [x] [weather-dashboard](https://tringuyen1086.github.io/weather-dashboard-ultimate/)
+* [x] [git-it-done](https://tringuyen1086.github.io/git-it-done-ultimate/)
+* [x] [meme-stocker](https://tringuyen1086.github.io/meme-stocker/)
 
 ## Code snipit 
 This particular code is how I used ccs with my html to create an animated banner on my portfolio.
@@ -65,28 +96,12 @@ background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
         background-position: 0% 50%;
     }
 
-## Currently working with:
-- Html
-- CSS
-- JavaScript
-- GitBash
-- GitLab
-- GitHub
-- and more on the way
 
-## Assignments (In Progress)
-
-- [horiseon](https://tringuyen1086.github.io/horiseon)
-- [run-buddy](https://tringuyen1086.github.io/run-buddy/)
-- [password-generator](https://tringuyen1086.github.io/password-generator-ultimate/)
-- [code-quiz](https://tringuyen1086.github.io/code-quiz-basis/)
-- [work-scheduler](https://tringuyen1086.github.io/work-scheduler-ultimate/)
-- [weather-dashboard](https://tringuyen1086.github.io/weather-dashboard-ultimate/)
-- [git-it-done](https://tringuyen1086.github.io/git-it-done-ultimate/)
-- [meme-stocker](https://tringuyen1086.github.io/meme-stocker/)
 
 ## Contributing
-Please find me on [Linkedin](https://www.linkedin.com/in/tri-nguyen-1086).
+
+* [x] Tri Nguyen
+* [x] Please find me on [Linkedin](https://www.linkedin.com/in/tri-nguyen-1086).
 
 
 

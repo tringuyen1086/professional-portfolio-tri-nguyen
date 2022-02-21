@@ -323,6 +323,11 @@ main {
 .meme-stocker {
     background-image: url("../images/meme-stocker.png")
 }
+
+.tella-messaging-app {
+    background-image: url("../images/tella-messaging-app.png")
+}
+
 /* Contact Section */
 .contact address {
     display: flex;

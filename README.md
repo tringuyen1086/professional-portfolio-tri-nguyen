@@ -6,6 +6,7 @@
 
 ## Project Visual
 
+![launching-page](./assets/images/launch-page-new.png)
 ![launching-page](./assets/images/launch-page.png)
 
 ## UC Berkeley Fullstack Coding Bootcamp

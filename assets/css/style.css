@@ -328,6 +328,9 @@ main {
     background-image: url("../images/tella-messaging-app.png")
 }
 
+.maintainable-app {
+    background-image: url("../images/maintainable-app.png")
+}
 /* Contact Section */
 .contact address {
     display: flex;

@@ -5,7 +5,7 @@
 [professional-portfolio](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 
 ## Project Visual
-
+![launching-page](./assets/images/launch-page-update.png)
 ![launching-page](./assets/images/launch-page-new.png)
 ![launching-page](./assets/images/launch-page.png)
 
@@ -33,7 +33,7 @@ I will add more links, styles, and codes to improve my portfolio over time.
 * [x] ...
 * [x] and more on the way
 
-## Assignments (In Progress)
+## Assignments
 
 * [x] [horiseon](https://tringuyen1086.github.io/horiseon)
 * [x] [run-buddy](https://tringuyen1086.github.io/run-buddy/)
@@ -43,6 +43,8 @@ I will add more links, styles, and codes to improve my portfolio over time.
 * [x] [weather-dashboard](https://tringuyen1086.github.io/weather-dashboard-ultimate/)
 * [x] [git-it-done](https://tringuyen1086.github.io/git-it-done-ultimate/)
 * [x] [meme-stocker](https://tringuyen1086.github.io/meme-stocker/)
+* [x] [tella-messaging-app](https://tella.herokuapp.com/)
+* [x] [maintainable-app](https://maintainable.herokuapp.com/)
 
 ## Code snipit 
 

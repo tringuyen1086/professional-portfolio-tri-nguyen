@@ -249,7 +249,8 @@ main {
 
 .page-section p {
     margin-bottom: 20px;
-    color: black;
+    color: white;
+    text-decoration: solid;
 }
 
 /* Grid Portfolio Structure */

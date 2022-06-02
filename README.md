@@ -5,13 +5,13 @@
 [professional-portfolio](https://tringuyen1086.github.io/professional-portfolio-tri-nguyen/)
 
 ## Project Visual
-![launching-page](./assets/images/launch-page-update.png)
-![launching-page](./assets/images/launch-page-new.png)
-![launching-page](./assets/images/launch-page.png)
+
+![launching-page](./assets/images/launch-page-latest.png)
+
 
 ## UC Berkeley Fullstack Coding Bootcamp
 
-This portfolio is a work in progress that shows activities, homework, and projects for UC Berkeley Coding Boot Camp. 
+This portfolio shows activities, homework, and projects for UC Berkeley Coding Boot Camp. 
 I will add more links, styles, and codes to improve my portfolio over time.
 
 ## Currently working with:
